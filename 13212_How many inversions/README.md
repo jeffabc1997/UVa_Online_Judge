@@ -1,2 +1,2 @@
 
-## 13212 - How many inversions?
+# 13212 - How many inversions?
